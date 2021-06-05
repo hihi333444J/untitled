@@ -1,0 +1,17 @@
+Ask.AddQuestion("", "", "")
+transformSprites.scale2x(img` `)
+transformSprites.getRotation(null)
+transformSprites.rotateSprite(null, 0)
+transformSprites.changeRotation(null, 0)blockMenu.setSelectedIndex(0)
+blockMenu.onMenuOptionSelected(function(option: string, index: number) {
+
+})
+blockMenu.isMenuOpen()
+blockMenu.selectedMenuIndex()
+blockMenu.setColors(15, 1)
+blockMenu.closeMenu()
+blockMenu.showMenu(text, MenuStyle.Grid, MenuLocation.FullScreen)
+lantern.setBreathingEnabled(false)
+lantern.setLightBandWidth(0)
+lantern.stopLanternEffect()
+lantern.startLanternEffect(null)
